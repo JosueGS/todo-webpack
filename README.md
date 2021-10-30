@@ -4,12 +4,12 @@
 
 ## Nota
 
-```
+``` 
 npm install
 ```
 
 Y para crear nuevamente el DIST
 
 ```
-npm start
+npm run build:dev
 ```
